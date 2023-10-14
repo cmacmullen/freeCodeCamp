@@ -1,0 +1,10 @@
+oranges
+apples
+pears
+cucumbers
+banana 
+blueberries
+strawberries
+
+
+This is for practice
